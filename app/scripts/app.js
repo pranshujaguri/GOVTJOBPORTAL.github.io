@@ -20,7 +20,7 @@ angular
         controllerAs: 'main'
       })
       .when('/about', {
-        templateUrl: 'views/about.html',
+        templateUrl: 'about.html',
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
