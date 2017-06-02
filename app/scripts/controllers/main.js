@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name myPortalApp.controller:MainCtrl
+ * @name yoappApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the myPortalApp
+ * Controller of the yoappApp
  */
 angular.module('myPortalApp')
   .controller('MainCtrl', function () {

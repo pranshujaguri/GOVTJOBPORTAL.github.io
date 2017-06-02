@@ -1,0 +1,31 @@
+  {
+      "response": [{
+        "states": "Assam"
+    }, {
+        "states": "Bihar"
+    }, {
+        "states": "Delhi"
+    }, {
+        "states": "Gujrat"
+    }, {
+        "states": "Haryana"
+    }, {
+        "states": "Jammu & Kashmir"
+    }, {
+        "states": "Kerla"
+    }, {
+        "states": "Madhya Pradesh"
+    }, {
+        "states": "Maharastra"
+    }, {
+        "states": "Punjab"
+    }, {
+        "states": "Sikkim"
+    }, {
+        "states": "Tamilnadu"
+    }, {
+        "states": "Uttar Pradesh"
+    }, {
+        "states": "Uttrakhand"
+    }]
+  }

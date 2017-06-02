@@ -1,0 +1,10 @@
+<div class="">
+    <h1> CLICK ON THE STATES BELOW</h1>
+    <input type="text" ng-model="statesearch"  class="form-control" placeholder="Search States " aria-describedby="basic-addon2">
+        
+     <ul ng-repeat="states in result.data.response | filter:statesearch">
+					
+               <li >{{states.states}} </li>
+              
+            	</ul> 
+</div>
